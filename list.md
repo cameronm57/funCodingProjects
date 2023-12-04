@@ -1,1 +1,1 @@
-custom extension to skip youtube ads: github.com/Camboi8/youtubeAdSkipper/tree/main
+custom extension to skip youtube ads: https://github.com/Camboi8/youtubeAdSkipper
